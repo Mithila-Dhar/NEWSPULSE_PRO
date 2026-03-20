@@ -37,4 +37,30 @@ NewsPulse Pro is an AI-powered news analytics dashboard that collects real-time 
 
 🛠️ Tech Stack
 
-TechnologyPurposePythonCore languageStreamlitWeb dashboard UIMediaStack APILive news dataTextBlobSentiment analysisscikit-learnTF-IDF, LDA, ML modelsspaCyNamed Entity RecognitionPlotlyInteractive chartsWordCloudKeyword visualisationyfinanceStock market dataNLTKText preprocessingpyngrokLocalhost tunnelling on Colab
+TechnologyPurpose
+
+PythonCore language
+
+Streamlit Web dashboard UI
+
+MediaStack API
+
+Live news data
+
+TextBlob
+
+Sentiment analysisscikit-learnTF-IDF
+
+LDA, ML modelsspaCy
+ 
+Named Entity Recognition 
+
+Plotly Interactive charts
+
+WordCloudKeyword visualisationy finance
+
+Stock market dataNLTK
+
+Text preprocessingpyngrok
+
+Localhost tunnelling on Colab
