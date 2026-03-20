@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+textblob
+wordcloud
+mysql-connector-python
+bcrypt
